@@ -1,0 +1,2 @@
+# Recommend
+Netflix is a application consist of movie's and tv shows and the worlds leading internet television network with over 57 millions members in nearly 50 countries enjoying more than two billions hours of TV shows and feature films. Using content based recommended system to recommend someone, what they next shows to watch more for tv shows or movies as per user or place or country or related to the show.
